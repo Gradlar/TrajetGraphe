@@ -1,0 +1,2745 @@
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 36.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 36.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+L -> F , par AVION: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+N -> J , par AVION: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> A , par BUS: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+B -> K , par BUS: 
+
+	 Temps : 26.0
+	 Pollution : 0.335
+	 Prix :  40.0
+
+Poids  : 75.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par BUS: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+O -> K , par BUS: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 110.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par BUS: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+N -> M , par BUS: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Poids  : 80.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par BUS: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+A -> B , par BUS: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 120.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+K -> O , par BUS: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Lieu d'arrivée :  
+	
+O -> G , par BUS: 
+
+	 Temps : 21.0
+	 Pollution : 0.27
+	 Prix :  32.0
+
+Poids  : 69.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+K -> B , par BUS: 
+
+	 Temps : 26.0
+	 Pollution : 0.335
+	 Prix :  40.0
+
+Lieu d'arrivée :  
+	
+B -> A , par BUS: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 42.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+K -> J , par BUS: 
+
+	 Temps : 59.0
+	 Pollution : 105.323
+	 Prix :  54.0
+
+Lieu d'arrivée :  
+	
+J -> N , par BUS: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 75.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> N , par BUS: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+F -> N , par BUS: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> O , par BUS: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+E -> A , par BUS: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Poids  : 90.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 100.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+A -> B , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 117.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 78.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 16.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+N -> M , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Poids  : 34.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+M -> G , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+M -> C , par TRAIN: 
+
+	 Temps : 34.0
+	 Pollution : 1.049
+	 Prix :  104.0
+
+Poids  : 68.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+A -> B , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 117.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+M -> G , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 16.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 100.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+K -> I , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.54
+	 Prix :  54.0
+
+Poids  : 118.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+G -> O , par TRAIN: 
+
+	 Temps : 21.0
+	 Pollution : 0.27
+	 Prix :  32.0
+
+Poids  : 39.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+M -> C , par TRAIN: 
+
+	 Temps : 34.0
+	 Pollution : 1.049
+	 Prix :  104.0
+
+Poids  : 68.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 101.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 16.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 78.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+M -> G , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+A -> B , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 117.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> K , par BUS: 
+
+	 Temps : 59.0
+	 Pollution : 105.323
+	 Prix :  54.0
+
+Lieu d'arrivée :  
+	
+J -> K , par BUS: 
+
+	 Temps : 59.0
+	 Pollution : 105.323
+	 Prix :  54.0
+
+Poids  : 59.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 52.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> K , par BUS: 
+
+	 Temps : 59.0
+	 Pollution : 105.323
+	 Prix :  54.0
+
+Lieu d'arrivée :  
+	
+K -> B , par TRAIN: 
+
+	 Temps : 26.0
+	 Pollution : 0.335
+	 Prix :  40.0
+
+Poids  : 85.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+N -> M , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Poids  : 34.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+M -> G , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 16.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> K , par BUS: 
+
+	 Temps : 59.0
+	 Pollution : 105.323
+	 Prix :  54.0
+
+Lieu d'arrivée :  
+	
+J -> K , par BUS: 
+
+	 Temps : 59.0
+	 Pollution : 105.323
+	 Prix :  54.0
+
+Poids  : 59.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 78.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+A -> E , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Lieu correspondance 1 : 
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 88.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+A -> E , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 118.0
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+L -> F , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+N -> J , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 1.2899999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+O -> G , par TRAIN: 
+
+	 Temps : 21.0
+	 Pollution : 0.27
+	 Prix :  32.0
+
+Lieu d'arrivée :  
+	
+N -> J , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 1.216
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+O -> G , par TRAIN: 
+
+	 Temps : 21.0
+	 Pollution : 0.27
+	 Prix :  32.0
+
+Lieu d'arrivée :  
+	
+M -> C , par TRAIN: 
+
+	 Temps : 34.0
+	 Pollution : 1.049
+	 Prix :  104.0
+
+Poids  : 1.531
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+E -> A , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Poids  : 1.7400000000000002
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 1.141
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+E -> A , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Poids  : 1.7400000000000002
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+E -> A , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Poids  : 1.7400000000000002
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+A -> E , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.7399999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+K -> O , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.4129999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+M -> G , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.291
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.141
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 0.509
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.3159999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 0.36
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 0.572
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.3159999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.65
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.141
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+K -> O , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.4129999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 0.8089999999999999
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+M -> G , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.291
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+G -> O , par TRAIN: 
+
+	 Temps : 21.0
+	 Pollution : 0.27
+	 Prix :  32.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.079
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+I -> K , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.54
+	 Prix :  54.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.9529999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+C -> M , par TRAIN: 
+
+	 Temps : 34.0
+	 Pollution : 1.049
+	 Prix :  104.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 2.34
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+B -> K , par TRAIN: 
+
+	 Temps : 26.0
+	 Pollution : 0.335
+	 Prix :  40.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.7479999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+A -> E , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 1.7399999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 0.509
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+L -> F , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 0.572
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.237
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+K -> O , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.841
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.744
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+L -> F , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 0.7809999999999999
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+M -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Poids  : 0.6739999999999999
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.744
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.744
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.744
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.744
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+G -> E , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.744
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 0.212
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 0.572
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+M -> C , par TRAIN: 
+
+	 Temps : 34.0
+	 Pollution : 1.049
+	 Prix :  104.0
+
+Poids  : 1.7679999999999998
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 0.569
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+M -> C , par TRAIN: 
+
+	 Temps : 34.0
+	 Pollution : 1.049
+	 Prix :  104.0
+
+Poids  : 1.7679999999999998
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 0.569
+Nom : Enzo
+Critére : prix
+Lieu de départ : 
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 1.081
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 1.081
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 1.081
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 0.509
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.8089999999999999
+Nom : Enzo
+Critére : prix
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+G -> M , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 1.291
+Nom : Enzo
+Critére : co2
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 0.8089999999999999
+Nom : Enzo
+Critére : prix
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 1.141
+Nom : Enzo
+Critére : prix
+Lieu de départ : 
+	
+I -> K , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.54
+	 Prix :  54.0
+
+Lieu d'arrivée :  
+	
+M -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Poids  : 1.851
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 78.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Lieu correspondance 1 : 
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Lieu d'arrivée :  
+	
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Poids  : 43.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+N -> J , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 68.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Lieu correspondance 1 : 
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Lieu d'arrivée :  
+	
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Poids  : 43.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Lieu correspondance 1 : 
+E -> L , par AVION: 
+
+	 Temps : 43.0
+	 Pollution : 77.144
+	 Prix :  40.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 71.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 73.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+E -> G , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 101.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 28.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+L -> F , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+N -> J , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 50.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+L -> F , par AVION: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+O -> G , par AVION: 
+
+	 Temps : 21.0
+	 Pollution : 0.27
+	 Prix :  32.0
+
+Poids  : 55.0
+Nom : Axel
+Critére : prix
+Lieu de départ : 
+	
+A -> E , par TRAIN: 
+
+	 Temps : 33.0
+	 Pollution : 0.424
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+G -> O , par BUS: 
+
+	 Temps : 21.0
+	 Pollution : 0.27
+	 Prix :  32.0
+
+Poids  : 110.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 28.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 16.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+N -> M , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Poids  : 34.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+J -> N , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 100.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+L -> F , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 82.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 94.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 72.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 70.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+F -> O , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+O -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+O -> L , par TRAIN: 
+
+	 Temps : 10.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+O -> L , par TRAIN: 
+
+	 Temps : 10.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 10.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+D -> L , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 12.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par AVION: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> N , par AVION: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+O -> F , par AVION: 
+
+	 Temps : 18.0
+	 Pollution : 0.237
+	 Prix :  28.0
+
+Lieu d'arrivée :  
+	
+F -> N , par AVION: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 36.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+L -> F , par AVION: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Lieu d'arrivée :  
+	
+F -> N , par AVION: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 34.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par AVION: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> N , par AVION: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par AVION: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+O -> K , par AVION: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 110.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+M -> N , par AVION: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Lieu d'arrivée :  
+	
+J -> K , par AVION: 
+
+	 Temps : 59.0
+	 Pollution : 105.323
+	 Prix :  54.0
+
+Poids  : 93.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+O -> M , par TRAIN: 
+
+	 Temps : 24.0
+	 Pollution : 0.742
+	 Prix :  74.0
+
+Lieu d'arrivée :  
+	
+O -> M , par TRAIN: 
+
+	 Temps : 24.0
+	 Pollution : 0.742
+	 Prix :  74.0
+
+Poids  : 24.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+F -> L , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 34.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+F -> N , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+H -> D , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Lieu d'arrivée :  
+	
+L -> O , par TRAIN: 
+
+	 Temps : 10.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 38.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+N -> M , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Lieu d'arrivée :  
+	
+N -> M , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Poids  : 18.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+N -> M , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.225
+	 Prix :  27.0
+
+Lieu d'arrivée :  
+	
+M -> G , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.212
+	 Prix :  25.0
+
+Poids  : 34.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+D -> H , par TRAIN: 
+
+	 Temps : 16.0
+	 Pollution : 0.509
+	 Prix :  50.0
+
+Poids  : 62.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+N -> F , par TRAIN: 
+
+	 Temps : 18.0
+	 Pollution : 0.569
+	 Prix :  56.0
+
+Lieu d'arrivée :  
+	
+L -> D , par TRAIN: 
+
+	 Temps : 12.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Poids  : 46.0
+Nom : Enzo
+Critére : temps
+Lieu de départ : 
+	
+L -> O , par TRAIN: 
+
+	 Temps : 10.0
+	 Pollution : 0.36
+	 Prix :  36.0
+
+Lieu d'arrivée :  
+	
+O -> K , par TRAIN: 
+
+	 Temps : 48.0
+	 Pollution : 0.604
+	 Prix :  72.0
+
+Poids  : 58.0

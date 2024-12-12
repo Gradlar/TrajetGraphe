@@ -1,0 +1,46 @@
+.combo-box .list-cell:filled:selected .text{
+    -fx-fill: white;
+}
+.menu-bar .container .menu:openvertically{
+    -fx-background-radius: 8px;
+}
+.combo-box{
+    -fx-background-radius:8px;
+}
+.combo-box2 .list-cell:filled:selected .text{
+    -fx-fill: rgba(0, 36, 59, 1);
+}
+.combo-box-1 .arrow{
+    -fx-background-image: url('file://../res/Arrow-Down.png');
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-padding: 0.5em;
+    -fx-background-insets: 0;
+}
+.combo-box-1 .arrow-button .arrow {
+    -fx-background-color: transparent;
+    -fx-shape: "";
+}
+
+
+.combo-box-2 .arrow{
+    -fx-background-image: url('file://../res/Arrow-Down_BL.png');
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-padding: 0.5em;
+    -fx-background-insets: 0;
+}
+.combo-box-2 .arrow-button .arrow {
+    -fx-background-color: transparent;
+    -fx-shape: "";
+}
+
+.label-graphe{
+    -fx-font-size: 18px;
+}
+
+.label-critere{
+    -fx-font-size: 15px;
+}

@@ -1,0 +1,9 @@
+On voit que vous avez travaillé, malheureusement votre rapport ne permet pas de savoir ce que vous avez proposé exactement en termes de modélisation par les graphes.
+
+Pour la V1, dans l'exemple vous dites vouloir passer par toutes les villes pour les visiter, or, ce n'est pas ce qui est demandé et, en plus, on ne peut pas résoudre ce problème avec un calcul de plus court chemin.
+Le dessin ne correspond pas au texte, il n'y a pas de liaison Milan-Rome sur le dessin.
+Au final même pour un modèle très simple comme celui de la V1, votre rapport ne décrit pas exactement ce qui a été fait.
+
+Pour la V2, la solution proposée pour prendre en compte les correspondances n'est pas basée sur une modélisation par les graphes.
+
+Pour la V3, le graphe modèle proposé semble contenir plusieurs valeurs sur ses arêtes, ce qui n'est pas un graphe correct.

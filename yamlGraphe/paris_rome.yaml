@@ -1,0 +1,15 @@
+name: paris_rome
+type: diwgraph
+nodes: [P, D, C, L, G, T, B, Ge, M, F, R]
+wedges:
+  P: {D: 3.37, C: 4.48}
+  D: {C: 3.32, L: 2.09}
+  C: {L: 2.02, G: 3.06}
+  L: {T: 4.00}
+  G: {T: 3.09, B: 3.24}
+  T: {M: 1.51, Ge: 2.08}
+  B: {F: 1.49}
+  Ge: {M: 2.00, B: 3.24}
+  M: {B: 2.40}
+  F: {R: 3.37}
+  R: {}

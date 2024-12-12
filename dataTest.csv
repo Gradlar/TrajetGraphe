@@ -1,0 +1,6 @@
+Lille;Dijon;Bus;60;1.7;80
+Dijon;Lyon;Train;22;2.4;40
+Lille;Clermont-Ferrand;Train;42;1.4;50
+Dijon;Clermont-Ferrand;Train;14;1.4;60
+Clermont-Ferrand;Lyon;Avion;110;150;22
+Clermont-Ferrand;Lyon;Train;65;1.2;90
